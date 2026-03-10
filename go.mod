@@ -7,7 +7,7 @@ require (
 	github.com/google/go-cmp v0.7.0
 	github.com/google/gopacket v1.1.19
 	github.com/open-traffic-generator/snappi/gosnappi v1.48.0
-	github.com/openconfig/featureprofiles v0.0.0-20260304174459-24a81bbe289d
+	github.com/openconfig/featureprofiles v0.0.0-20260310133626-0ee97ec253f3
 	github.com/openconfig/gnmi v0.14.1
 	github.com/openconfig/goyang v1.6.3
 	github.com/openconfig/kne v0.3.1
@@ -15,9 +15,9 @@ require (
 	github.com/openconfig/ygot v0.34.0
 	github.com/prometheus-community/pro-bing v0.8.0
 	github.com/vishvananda/netlink v1.3.1
-	google.golang.org/grpc v1.79.1
+	google.golang.org/grpc v1.79.2
 	google.golang.org/protobuf v1.36.11
-	k8s.io/klog/v2 v2.130.1
+	k8s.io/klog/v2 v2.140.0
 )
 
 require (
