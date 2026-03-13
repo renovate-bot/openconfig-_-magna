@@ -7,7 +7,7 @@ require (
 	github.com/google/go-cmp v0.7.0
 	github.com/google/gopacket v1.1.19
 	github.com/open-traffic-generator/snappi/gosnappi v1.48.0
-	github.com/openconfig/featureprofiles v0.0.0-20260310133626-0ee97ec253f3
+	github.com/openconfig/featureprofiles v0.0.0-20260313204032-eeca2a6242b8
 	github.com/openconfig/gnmi v0.14.1
 	github.com/openconfig/goyang v1.6.3
 	github.com/openconfig/kne v0.3.1
